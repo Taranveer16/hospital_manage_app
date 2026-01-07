@@ -283,20 +283,7 @@ class _HealthPackagesScreenState extends State<HealthPackagesScreen> {
                             ),
                           ),
                         );
-                        /*Navigator.pop(context);
-                        // For now, pass empty test IDs (in real app, load package tests)
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (context) => BookAppointmentScreen(
-                              testIds: [], // Will be loaded from package
-                              patientId: widget.patientId,
-                              isPackage: true,
-                              packageId: package['id'],
-                            ),
-                          ),
-                        );*/
-                      },
+                                              },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Color(package['color']),
                         padding: EdgeInsets.symmetric(vertical: 16),

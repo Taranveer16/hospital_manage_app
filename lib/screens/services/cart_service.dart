@@ -1,5 +1,4 @@
 // lib/services/cart_service.dart
-// GLOBAL CART SERVICE - Allows selecting tests from multiple categories
 import 'package:flutter/foundation.dart';
 
 class CartService extends ChangeNotifier {

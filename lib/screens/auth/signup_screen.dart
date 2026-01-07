@@ -1,5 +1,5 @@
 // lib/screens/auth/signup_screen.dart
-// UPDATED TO USE DATABASE FUNCTIONS
+
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'login_screen.dart';
